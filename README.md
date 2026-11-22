@@ -1,4 +1,6 @@
 # Tomcat-Deploy
+Very good for developing Servlets with VSCode 
+tested with apache-tomcat-11.0.26 and hotswap-agent-2.0.3 
 
 * TomcatDeploy - Tomcat Control Panel & Live Deploy (Java 17+, Swing)
 *
